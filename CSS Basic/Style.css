@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://img.freepik.com/vector-premium/fondos-pantalla-iphone-que-son-color-rosa-blanco_884113-9.jpg);
+}
+h1 {
+    color: lightblue;
+}
+
+h1 span{
+    color: #A020F0;
+}
+table{
+    background-color: rgb(243, 111, 111);
+    border-color: black;
+    border-style: solid;
+}
+h2:nth-of-type(3){
+    color: blue;
+}
+
+a{
+    color: yellow;
+    font-style: italic; 
+}
+#listab{
+    border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  margin-right: 60%;
+}
+
+ul > li:nth-of-type(even){
+    color:green;
+}
